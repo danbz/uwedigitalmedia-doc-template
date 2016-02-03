@@ -16,3 +16,8 @@ Overleaf is a free online service for easy LaTex editing with a simple to use in
 Highly Recommended as the easiest Quickest way to start using LaTeX
 
 https://www.overleaf.com/
+
+for automated bibliography and reference paper management see tools such as http://www.mendeley.com, when using Mendeley with overleaf it it possible to easily synchronise bibliography (.bib) files as papers in Mendely are updated;
+
+https://www.overleaf.com/blog/184-mendeley-integration-is-here-import-your-mendeley-reference-library-into-overleaf
+
